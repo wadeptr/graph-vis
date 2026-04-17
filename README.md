@@ -1,4 +1,4 @@
-# Graph-Vis - 
+# Graph-Vis - A Graph Algorithm Visualizer
 
 Graph-Vis is a project that provides visualizations and animations of common graph algorithms. It functions as an interactive web app with configurable input graph json, a debugger that can move forwards and backwards in time, and brief written explanations.
 
